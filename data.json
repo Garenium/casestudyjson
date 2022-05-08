@@ -152,5 +152,16 @@
       "QTYONHAND": "32",
       "QTYONBACK": "1",
       "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "APPLE",
+      "BRANDID": "CLS090",
+      "PRODUCT": "IPHONE 9S",
+      "GRAPHIC": "Apple A12",
+      "COSTPRICE": "1499.99",
+      "MSRP": "1299.99",
+      "QTYONHAND": "12",
+      "QTYONBACK": "1",
+      "DESCRIPTION": "Nice Phone"
     } 
 ]
