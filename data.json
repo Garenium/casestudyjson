@@ -1,0 +1,156 @@
+[
+    {
+      "BRAND": "SAMSUNG",
+      "BRANDID": "FJL426",
+      "PRODUCT": "GALAXY S3",
+      "GRAPHIC": "Samsung Xclipse 920",
+      "COSTPRICE": "599.99",
+      "MSRP": "499.99",
+      "QTYONHAND": "20",
+      "QTYONBACK": "4",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "SAMSUNG",
+      "BRANDID": "LOQ682",
+      "PRODUCT": "GALAXY S2",
+      "GRAPHIC": "Samsung Xclipse 230",
+      "COSTPRICE": "299.99",
+      "MSRP": "199.99",
+      "QTYONHAND": "40",
+      "QTYONBACK": "20",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "SAMSUNG",
+      "BRANDID": "JLA783",
+      "PRODUCT": "GALAXY S4",
+      "GRAPHIC": "Samsung Xclipse 590",
+      "COSTPRICE": "599.99",
+      "MSRP": "499.99",
+      "QTYONHAND": "80",
+      "QTYONBACK": "40",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "SAMSUNG",
+      "BRANDID": "ACD412",
+      "PRODUCT": "GALAXY S5",
+      "GRAPHIC": "Samsung Xclipse 8080",
+      "COSTPRICE": "239.99",
+      "MSRP": "139.99",
+      "QTYONHAND": "20",
+      "QTYONBACK": "2",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "SAMSUNG",
+      "BRANDID": "JLK621",
+      "PRODUCT": "GALAXY S9",
+      "GRAPHIC": "Samsung Xclipse 210",
+      "COSTPRICE": "999.99",
+      "MSRP": "899.99",
+      "QTYONHAND": "120",
+      "QTYONBACK": "30",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "GOOGLE",
+      "BRANDID": "DJL733",
+      "PRODUCT": "PIXEL 3",
+      "GRAPHIC": "Adreno 630",
+      "COSTPRICE": "399.99",
+      "MSRP": "359.99",
+      "QTYONHAND": "100",
+      "QTYONBACK": "3",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "GOOGLE",
+      "BRANDID": "JAL423",
+      "PRODUCT": "PIXEL 4",
+      "GRAPHIC": "Adreno 330",
+      "COSTPRICE": "499.99",
+      "MSRP": "399.99",
+      "QTYONHAND": "80",
+      "QTYONBACK": "20",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "GOOGLE",
+      "BRANDID": "ZKD531",
+      "PRODUCT": "PIXEL 2",
+      "GRAPHIC": "Adreno 100",
+      "COSTPRICE": "99.99",
+      "MSRP": "39.99",
+      "QTYONHAND": "10",
+      "QTYONBACK": "0",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "GOOGLE",
+      "BRANDID": "MKD023",
+      "PRODUCT": "PIXEL 5",
+      "GRAPHIC": "Adreno 300",
+      "COSTPRICE": "400.00",
+      "MSRP": "200.00",
+      "QTYONHAND": "40",
+      "QTYONBACK": "0",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "GOOGLE",
+      "BRANDID": "DDK123",
+      "PRODUCT": "PIXEL 6",
+      "GRAPHIC": "Adreno 990",
+      "COSTPRICE": "1199.99",
+      "MSRP": "999.99",
+      "QTYONHAND": "80",
+      "QTYONBACK": "0",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "APPLE",
+      "BRANDID": "AJL991",
+      "PRODUCT": "IPhone 5",
+      "GRAPHIC": "Apple A9",
+      "COSTPRICE": "199.99",
+      "MSRP": "99.99",
+      "QTYONHAND": "0",
+      "QTYONBACK": "0",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "APPLE",
+      "BRANDID": "DAL109",
+      "PRODUCT": "IPHONE 3GS",
+      "GRAPHIC": "APPLE A1",
+      "COSTPRICE": "39.99",
+      "MSRP": "19.99",
+      "QTYONHAND": "2",
+      "QTYONBACK": "0",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "APPLE",
+      "BRANDID": "HAL421",
+      "PRODUCT": "IPHONE 6",
+      "GRAPHIC": "Apple A8",
+      "COSTPRICE": "399.99",
+      "MSRP": "349.99",
+      "QTYONHAND": "20",
+      "QTYONBACK": "0",
+      "DESCRIPTION": "Nice Phone"
+    },
+    {
+      "BRAND": "APPLE",
+      "BRANDID": "CLK090",
+      "PRODUCT": "IPHONE 9",
+      "GRAPHIC": "Apple A12",
+      "COSTPRICE": "1399.99",
+      "MSRP": "1199.99",
+      "QTYONHAND": "32",
+      "QTYONBACK": "1",
+      "DESCRIPTION": "Nice Phone"
+    } 
+]
