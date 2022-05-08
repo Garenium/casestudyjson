@@ -1,7 +1,7 @@
 [
     {
       "BRAND": "SAMSUNG",
-      "BRANDID": "FJL426",
+      "BRANDID": "321426",
       "PRODUCT": "GALAXY S3",
       "GRAPHIC": "Samsung Xclipse 920",
       "COSTPRICE": "599.99",
@@ -12,7 +12,7 @@
     },
     {
       "BRAND": "SAMSUNG",
-      "BRANDID": "LOQ682",
+      "BRANDID": "641682",
       "PRODUCT": "GALAXY S2",
       "GRAPHIC": "Samsung Xclipse 230",
       "COSTPRICE": "299.99",
@@ -23,7 +23,7 @@
     },
     {
       "BRAND": "SAMSUNG",
-      "BRANDID": "JLA783",
+      "BRANDID": "098783",
       "PRODUCT": "GALAXY S4",
       "GRAPHIC": "Samsung Xclipse 590",
       "COSTPRICE": "599.99",
@@ -34,7 +34,7 @@
     },
     {
       "BRAND": "SAMSUNG",
-      "BRANDID": "ACD412",
+      "BRANDID": "263412",
       "PRODUCT": "GALAXY S5",
       "GRAPHIC": "Samsung Xclipse 8080",
       "COSTPRICE": "239.99",
@@ -45,7 +45,7 @@
     },
     {
       "BRAND": "SAMSUNG",
-      "BRANDID": "JLK621",
+      "BRANDID": "071621",
       "PRODUCT": "GALAXY S9",
       "GRAPHIC": "Samsung Xclipse 210",
       "COSTPRICE": "999.99",
@@ -56,7 +56,7 @@
     },
     {
       "BRAND": "GOOGLE",
-      "BRANDID": "DJL733",
+      "BRANDID": "345733",
       "PRODUCT": "PIXEL 3",
       "GRAPHIC": "Adreno 630",
       "COSTPRICE": "399.99",
@@ -67,7 +67,7 @@
     },
     {
       "BRAND": "GOOGLE",
-      "BRANDID": "JAL423",
+      "BRANDID": "615423",
       "PRODUCT": "PIXEL 4",
       "GRAPHIC": "Adreno 330",
       "COSTPRICE": "499.99",
@@ -78,7 +78,7 @@
     },
     {
       "BRAND": "GOOGLE",
-      "BRANDID": "ZKD531",
+      "BRANDID": "401531",
       "PRODUCT": "PIXEL 2",
       "GRAPHIC": "Adreno 100",
       "COSTPRICE": "99.99",
@@ -89,7 +89,7 @@
     },
     {
       "BRAND": "GOOGLE",
-      "BRANDID": "MKD023",
+      "BRANDID": "41023",
       "PRODUCT": "PIXEL 5",
       "GRAPHIC": "Adreno 300",
       "COSTPRICE": "400.00",
@@ -100,7 +100,7 @@
     },
     {
       "BRAND": "GOOGLE",
-      "BRANDID": "DDK123",
+      "BRANDID": "095123",
       "PRODUCT": "PIXEL 6",
       "GRAPHIC": "Adreno 990",
       "COSTPRICE": "1199.99",
@@ -111,7 +111,7 @@
     },
     {
       "BRAND": "APPLE",
-      "BRANDID": "AJL991",
+      "BRANDID": "341991",
       "PRODUCT": "IPhone 5",
       "GRAPHIC": "Apple A9",
       "COSTPRICE": "199.99",
@@ -122,7 +122,7 @@
     },
     {
       "BRAND": "APPLE",
-      "BRANDID": "DAL109",
+      "BRANDID": "388109",
       "PRODUCT": "IPHONE 3GS",
       "GRAPHIC": "APPLE A1",
       "COSTPRICE": "39.99",
@@ -133,7 +133,7 @@
     },
     {
       "BRAND": "APPLE",
-      "BRANDID": "HAL421",
+      "BRANDID": "290421",
       "PRODUCT": "IPHONE 6",
       "GRAPHIC": "Apple A8",
       "COSTPRICE": "399.99",
@@ -144,7 +144,7 @@
     },
     {
       "BRAND": "APPLE",
-      "BRANDID": "CLK090",
+      "BRANDID": "899090",
       "PRODUCT": "IPHONE 9",
       "GRAPHIC": "Apple A12",
       "COSTPRICE": "1399.99",
@@ -155,7 +155,7 @@
     },
     {
       "BRAND": "APPLE",
-      "BRANDID": "CLS090",
+      "BRANDID": "328090",
       "PRODUCT": "IPHONE 9S",
       "GRAPHIC": "Apple A12",
       "COSTPRICE": "1499.99",
