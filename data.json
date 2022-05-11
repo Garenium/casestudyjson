@@ -145,8 +145,8 @@
     {
       "BRAND": "APPLE",
       "BRANDID": "899090",
-      "PRODUCT": "IPHONE 9",
-      "GRAPHIC": "iphone9.png",
+      "PRODUCT": "IPHONE 8",
+      "GRAPHIC": "iphone8.png",
       "COSTPRICE": "1399.99",
       "MSRP": "1199.99",
       "QTYONHAND": "32",
@@ -156,8 +156,8 @@
     {
       "BRAND": "APPLE",
       "BRANDID": "328090",
-      "PRODUCT": "IPHONE 9S",
-      "GRAPHIC": "iphone9s.png",
+      "PRODUCT": "IPHONE X",
+      "GRAPHIC": "iphonex.png",
       "COSTPRICE": "1499.99",
       "MSRP": "1299.99",
       "QTYONHAND": "12",
