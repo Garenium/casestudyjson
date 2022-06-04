@@ -6,8 +6,8 @@
       "GRAPHIC": "residentevil0.png",
       "COSTPRICE": "29.99",
       "MSRP": "19.99",
-      "QTYONHAND": "20",
-      "QTYONBACK": "4",
+      "QTYONHAND": "1",
+      "QTYONBACK": "0",
       "DESCRIPTION": "Nice video game"
     },
     {
@@ -17,8 +17,8 @@
       "GRAPHIC": "residentevil1.png",
       "COSTPRICE": "29.99",
       "MSRP": "19.99",
-      "QTYONHAND": "40",
-      "QTYONBACK": "20",
+      "QTYONHAND": "1",
+      "QTYONBACK": "0",
       "DESCRIPTION": "Nice video game"
     },
     {
