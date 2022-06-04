@@ -29,7 +29,7 @@
       "COSTPRICE": "59.99",
       "MSRP": "49.99",
       "QTYONHAND": "80",
-      "QTYONBACK": "40",
+      "QTYONBACK": "0",
       "DESCRIPTION": "Nice video game"
     },
     {
@@ -40,7 +40,7 @@
       "COSTPRICE": "29.99",
       "MSRP": "19.99",
       "QTYONHAND": "20",
-      "QTYONBACK": "2",
+      "QTYONBACK": "0",
       "DESCRIPTION": "Nice video game"
     },
     {
@@ -51,7 +51,7 @@
       "COSTPRICE": "9.99",
       "MSRP": "9.99",
       "QTYONHAND": "120",
-      "QTYONBACK": "30",
+      "QTYONBACK": "0",
       "DESCRIPTION": "In resident evil 4, special agent Leon S. Kennedy is sent on a mission to rescue the U.S. President's daughter who has been kidnapped. Finding his way to a rural village in Europe, he faces new threats that are a departure from the traditional lumbering zombie enemies of the earlier instalments in the series."
     },
     {
@@ -62,7 +62,7 @@
       "COSTPRICE": "9.99",
       "MSRP": "8.99",
       "QTYONHAND": "100",
-      "QTYONBACK": "3",
+      "QTYONBACK": "0",
       "DESCRIPTION": "Nice video game"
     },
     {
@@ -73,7 +73,7 @@
       "COSTPRICE": "9.99",
       "MSRP": "3.99",
       "QTYONHAND": "80",
-      "QTYONBACK": "20",
+      "QTYONBACK": "0",
       "DESCRIPTION": "Nice video game"
     },
     {
@@ -161,7 +161,7 @@
       "COSTPRICE": "14.99",
       "MSRP": "12.99",
       "QTYONHAND": "12",
-      "QTYONBACK": "1",
+      "QTYONBACK": "0",
       "DESCRIPTION": "Nice video game"
     } 
 ]
